@@ -1,0 +1,7 @@
+Começamos o processo escrevendo um teste funcional. Se o teste funcional não passar, entramos na outra
+sessão do diagrama, em que vamos passar a escrever o teste de unidade. Se esse nosso teste de unidade
+não passar, temos que escrever um código minimo, o nosso baby step, para tentar fazer com que o teste
+de unidade passe. Quando conseguirmos fazer o teste de unidade passar, verificamos se ele precisa de
+refatoração, e se precisa, escrevemos mais código mínimo. Quando não precisar de mais refatoração,
+rodamos o teste funcional e verificamos se ele passa dessa vez. Se ele passar, verificamos se a aplicação
+como um todo precisa de refatoração, e se precisar, voltamos ao diagrama de teste de unidade.
