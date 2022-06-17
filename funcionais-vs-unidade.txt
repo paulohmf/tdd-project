@@ -1,0 +1,7 @@
+Testes Funcionais vs. Testes de Unidade
+
+1. Testes funcionais são lentos e extensos, enquanto testes de unidade são rápidos e simples.
+
+2. Testes funcionais são muito frágeis, podem ser impactados por falha na execução do browser
+ou falha de internet. Os testes de unidade são menos propícios a ter esse tipo de problema visto que
+testam uma porção muito menor do sistema.
